@@ -1,0 +1,7 @@
+{
+  "latest":"decimal1.0.mjs",
+  "latest-pgp":"decimal1.0.mjs.asc",
+  "pubkey":"../public-keys.asc",
+  "pubkey-asc":"../public-keys.asc",
+  "pubkey-gpg":"../public-keys.gpg"
+}
