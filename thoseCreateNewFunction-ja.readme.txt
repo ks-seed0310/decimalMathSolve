@@ -18,4 +18,6 @@ decimalMath.prototype.<Name>=function(argv...){...}
 
 https://github.com/ks-seed0310/decimalMathSolve/issues/3
 
-こちらから申請して下さい。
+公式パッケージとして追加したい場合は、こちらから申請して下さい。
+
+より良いものにしていくためにご協力お願いします。
