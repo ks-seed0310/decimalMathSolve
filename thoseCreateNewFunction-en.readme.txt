@@ -1,0 +1,21 @@
+For those who want to create new functions compatible with decimal1.0.mjs:
+
+This class does not perform any network communication such as fetch, so there will be no errors due to missing files or lack of network access.
+
+A request to those who want to create new functions:
+
+Although I know this is difficult to say because of #int_mul, please do not add functions to decimalMath.prototype other than those that actually take user input and output data.
+
+The only reason #int_mul exists is because processing would be cumbersome without it. Thank you for your understanding.
+
+Furthermore, if the function name is something that actually exists as a mathematical symbol, use that name directly.
+
+If you are creating a new function that does not exist, please use a name that is easy to understand what the function does, while avoiding confusion with mathematical symbols or TeX notation.
+
+We recommend writing it in the format: decimalMath.prototype.<Name>=function(argv...){...}
+
+https://github.com/ks-seed0310/decimalMathSolve/issues/3
+
+If you would like to add it as an official package, please submit a request here.
+
+Please cooperate in making this even better.
