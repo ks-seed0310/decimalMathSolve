@@ -13,7 +13,7 @@
 
 利用方法(動的インポート):
 <script>
-const decimalMath=(await import("https://ks-seed0310.github.io/decimalMathSolve/js-decimal/main/decimal1.0.mjs").default)
+const decimalMath={...(await import("https://ks-seed0310.github.io/decimalMathSolve/js-decimal/main/decimal1.0.mjs"))}.default
 </script>
 こちらも普通に使えます。
 
