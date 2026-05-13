@@ -1,7 +1,12 @@
 {
-  "latest":"decimal1.0.mjs",
-  "latest-pgp":"decimal1.0.mjs.asc",
+  "latest":"decimal2.0.mjs",
+  "latest-pgp":"decimal2.0.mjs.asc",
+  "latest-1.0":"decimal1.0.mjs",
+  "latest-1.0-pgp":"decimal2.0.mjs.asc",
+  "latest-2.0":"decimal2.0.mjs",
+  "latest-2.0-pgp":"decimal2.0.mjs.asc",
   "pubkey":"../public-keys.asc",
   "pubkey-asc":"../public-keys.asc",
-  "pubkey-gpg":"../public-keys.gpg"
+  "pubkey-gpg":"../public-keys.gpg",
+  "pgp-fingerprint":"C4F54AF8F4D073744D3430A0595F1A8D369E0D5C",
 }
