@@ -1,3 +1,4 @@
+//VERSION:v3.0 dev20.1
 class decimalsup{
     static sum(init,...args){
         return args.reduce((prev,curr)=>prev+curr,init)
