@@ -1,0 +1,5 @@
+命名規則 [Name][ver].extensions.decimal[decimalVer].mjs
+
+mathTools   1.0   .extensions.   decimal   3.2   .mjs
+───┬────   ──┬──   ─────┬─────   ───┬───   ──┬──   ─┬──
+  名前      Ver     種別タグ     対象Lib   ReqVer  形式
