@@ -1,0 +1,3 @@
+[LibName].[ver].mjs
+もしくは
+[LibName].[ver].Dev[Dev_Ver].mjs
