@@ -17,13 +17,14 @@
   "stable-3.x-pgp":["decimal3.1.mjs.asc","decimal3.2.mjs.asc"],
   "ExistingMajorVer":["1.x","2.x","3.x"],
   "notRenewPackage":["decimal1.0.mjs","decimal2.0.mjs","decimal2.1.mjs","decimal3.0.mjs","decimal3.1.Dev5.mjs","decimal3.1.mjs","decimal3.2.mjs"],
-  "packageUnderDevelopment":["LTS_decimal1.1.mjs","LTS_decimal2.2.mjs","decimal3.3.mjs","decimal4.0.mjs"],
+  "packageUnderDevelopment":["LTS_decimal1.1.mjs","LTS_decimal2.2.mjs","decimal3.3.mjs","decimal4.0.mjs","minimumDecimal1.0.mjs"],
   "developmentsSchedule":{
     "nextUpdateSchedule":{
       "LTS_decimal1.1.mjs":"Bug fixes",
       "LTS_decimal2.2.mjs":"Speed ​​increase, weight reduction",
       "decimal3.3.mjs":"Speed ​​increase, weight reduction",
-      "decimal4.0.mjs""New features added"
+      "decimal4.0.mjs""New features added",
+      "minimumDecimal1.0.mjs":"others"
     },
     "nextUpdateSchedule_index":[
       "Bug fixes",
