@@ -1,0 +1,26 @@
+{
+  ".templates":{
+    "name":"decimal extensions",
+    "version":"x.x",
+    "license":"GPL-2.0 license",
+    "lang":"JavaScript",
+    "dependencies":{},
+    "peerDependencies":{},
+    "type":"module",
+    "repository":{"type":"git","url":"https://github.com/ks-seed0310/decimalMathSolve.git"},
+    "keywords":["decimal","math","arbitrary-precision","zero-dependency"]
+  },
+  "mathTools1.0.extensions.decimal3.2.mjs":{
+    "name":"decimal extensions",
+    "version":"1.0",
+    "license":"GPL-2.0 license",
+    "lang":"JavaScript",
+    "dependencies":{},
+    "peerDependencies":{
+      "decimal":"^3.2.0"
+    },
+    "type":"module",
+    "repository":{"type":"git","url":"https://github.com/ks-seed0310/decimalMathSolve.git"},
+    "keywords":["decimal","math","arbitrary-precision","zero-dependency"]
+  }
+}
