@@ -17,7 +17,11 @@
   "stable-3.x-pgp":["decimal3.1.mjs.asc","decimal3.2.mjs.asc"],
   "ExistingMajorVer":["1.x","2.x","3.x"],
   "notRenewPackage":["decimal1.0.mjs","decimal2.0.mjs","decimal2.1.mjs","decimal3.0.mjs","decimal3.1.Dev5.mjs","decimal3.1.mjs","decimal3.2.mjs"],
-  "packageUnderDevelopment":"decimal3.3.mjs",
+  "packageUnderDevelopment":["decimal3.3.mjs","decimal4.0.mjs"],
+  "developmentsSchedule":{
+    "nextUpdateSchedule":"Speed ​​increase, weight reduction",
+    "nextUpdateSchedule_index":["Bug fixes","New features added","Added mathematical functions","Adding configuration data","Addition of Extension Connection API functionality","Speed ​​increase, weight reduction","others"],
+  },
   "dev-packages":{
     "baseUrl_github":"https://github.com/ks-seed0310/files_server.develop/tree/main/repos.decimalMathSolve",
     "baseUrl_githubPages":"https://ks-seed0310.github.io/files_server.develop/repos.decimalMathSolve",
