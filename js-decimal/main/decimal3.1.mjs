@@ -1014,10 +1014,6 @@ class decimal{
             version:"3.0",
             detailVersion:"3.1.7",
             devVersion:"7",
-            fullName:"Decimal Math Calculate System for JavaScript",
-            name:"decimal3.0.mjs",
-            fileName:"decimal3.0.mjs",
-            allVersions:["1.0","2.0","2.1","3.0","3.1"],
             license:"GPL-2.0 License",
             scriptAbout:{
                 classAbout:{
